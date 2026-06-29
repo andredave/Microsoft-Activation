@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="hhYQn3Ea2xyBR_X4RGyn0y3rt95DRhwtwTVzvvCPbV8" />
+
 # Microsoft Activation Script (MAS) - Windows 10 & Windows 11 Activator
 
 **Activate Windows 10 and Windows 11 Permanently** | HWID | KMS | Office Activator

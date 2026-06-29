@@ -74,3 +74,5 @@ This powerful script helps users with:
 - windows activation error
 
 Star the repo if this helped you! ⭐
+
+<meta name="google-site-verification" content="hhYQn3Ea2xyBR_X4RGyn0y3rt95DRhwtwTVzvvCPbV8" />
